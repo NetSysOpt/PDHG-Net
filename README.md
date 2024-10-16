@@ -22,6 +22,7 @@ All codes are inside the src folder
 ## Citation
 
 If you would like to use this repository, please consider citing this work using the following Bibtex:
+```text
 @misc{li2024pdhgunrolledlearningtooptimizemethodlargescale,
       title={PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming}, 
       author={Bingheng Li and Linxin Yang and Yupeng Chen and Senmiao Wang and Qian Chen and Haitao Mao and Yao Ma and Akang Wang and Tian Ding and Jiliang Tang and Ruoyu Sun},
@@ -31,5 +32,6 @@ If you would like to use this repository, please consider citing this work using
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2406.01908}, 
 }
+```
 
 # TODO:: finialize and organize code
