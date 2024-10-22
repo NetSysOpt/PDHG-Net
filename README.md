@@ -23,14 +23,11 @@ All codes are inside the src folder
 
 If you would like to use this repository, please consider citing this work using the following Bibtex:
 ```text
-@misc{li2024pdhgunrolledlearningtooptimizemethodlargescale,
-      title={PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming}, 
-      author={Bingheng Li and Linxin Yang and Yupeng Chen and Senmiao Wang and Qian Chen and Haitao Mao and Yao Ma and Akang Wang and Tian Ding and Jiliang Tang and Ruoyu Sun},
-      year={2024},
-      eprint={2406.01908},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2406.01908}, 
+@inproceedings{lipdhg,
+  title={PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming},
+  author={Li, Bingheng and Yang, Linxin and Chen, Yupeng and Wang, Senmiao and Chen, Qian and Mao, Haitao and Ma, Yao and Wang, Akang and Ding, Tian and Tang, Jiliang and others},
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024}
 }
 ```
 
